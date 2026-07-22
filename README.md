@@ -50,6 +50,14 @@
 
 </a>
 
+<a href="https://www.facebook.com/Ricardohounmenou669">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@bl4ck_w0lf_229">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
 </p>
 
 
