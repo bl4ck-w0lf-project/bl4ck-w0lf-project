@@ -113,8 +113,6 @@ Ma vision du développement :
 
 ---
 
----
-
 # Stack Technique
 
 
@@ -433,93 +431,6 @@ Construire une infrastructure permettant aux entreprises de gérer efficacement 
 </div>
 
 
-## Domaines d'expertise
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### Back-End
-
-- Architecture MVC
-- API RESTful & GraphQL
-- Services sécurisés
-- Authentification
-- Gestion des permissions
-- Optimisation SQL
-
-</td>
-
-<td width="33%" valign="top">
-
-### Architecture Logicielle
-
-- Architecture scalable
-- Clean Architecture
-- Design Patterns
-- Séparation des responsabilités
-- Maintenabilité
-
-</td>
-
-<td width="33%" valign="top">
-
-### Intelligence Artificielle
-
-- Agents IA
-- LLM
-- Prompt Engineering
-- Applications intelligentes
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### Data Engineering
-
-- Modélisation des données
-- Bases relationnelles
-- Traitement des données
-- Optimisation des requêtes
-
-</td>
-
-<td width="33%" valign="top">
-
-### Cybersécurité
-
-- Sécurité applicative
-- Protection des données
-- Bonnes pratiques OWASP
-- Gestion des accès
-
-</td>
-
-<td width="33%" valign="top">
-
-### UI / UX Design
-
-- Design Responsive
-- Interfaces modernes
-- Figma
-- Expérience utilisateur
-- Design Systems
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
 
 ---
 
