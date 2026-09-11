@@ -1,17 +1,6 @@
-Oui bro, je vois exactement ce que tu veux. On garde **tout le contenu existant**, sans réécriture inutile, et on modifie uniquement les zones demandées :
 
-* **À propos de moi** → 2 colonnes.
-* **Stack Technique** → organisation en **2 colonnes × 3 lignes**.
-* La **3ᵉ ligne est fusionnée sur toute la largeur** pour les outils IA.
-* Les outils IA sont affichés avec de **vrais logos SVG**, bien espacés.
-* Les éléments IA : **ChatGPT, Claude, Cursor, Google Antigravity, Codex, Mistral, Qwen, DeepSeek, Gemini, Lovable**.
-* Les accents bleus concernés passent à **`#FE652D`**.
-* Ajout d'un **footer CTA** propre en bas.
-* **Aucune autre partie du README n'est modifiée.**
 
-Voici la version mise à jour :
-
-````markdown
+````
 ## Salut 👋
 
 <!--
