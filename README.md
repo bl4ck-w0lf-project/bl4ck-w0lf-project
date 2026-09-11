@@ -1,6 +1,3 @@
-
-
-````
 ## Salut 👋
 
 <!--
@@ -26,39 +23,27 @@
 <p>
 
 <a href="https://github.com/bl4ck-w0lf-project">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/ricardo-hounmenou-a913a3292/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="https://hounmenou-ricardo.vercel.app/">
-
 <img src="https://img.shields.io/badge/Portfolio-FE652D?style=for-the-badge&logo=vercel&logoColor=white"/>
-
 </a>
 
 <a href="mailto:hounmenouangelo@gmail.com">
-
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://www.facebook.com/Ricardohounmenou669">
-
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-
 </a>
 
 <a href="https://www.tiktok.com/@bl4ck_w0lf_229">
-
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-
 </a>
 
 </p>
@@ -92,22 +77,22 @@ Mon objectif est de transformer des problèmes métiers complexes en solutions l
 
 ### Je développe principalement
 
-- Plateformes SaaS modernes
-- Applications web performantes
-- Applications mobiles multiplateformes
-- Systèmes de gestion métier
-- Tableaux de bord analytiques
+* Plateformes SaaS modernes
+* Applications web performantes
+* Applications mobiles multiplateformes
+* Systèmes de gestion métier
+* Tableaux de bord analytiques
 
 ### Je suis passionné par
 
-- Architecture logicielle
-- Développement Back-End
-- Intelligence Artificielle
-- Agents IA
-- Cybersécurité
-- Data Engineering
-- Prompt Engineering
-- Cloud Computing
+* Architecture logicielle
+* Développement Back-End
+* Intelligence Artificielle
+* Agents IA
+* Cybersécurité
+* Data Engineering
+* Prompt Engineering
+* Cloud Computing
 
 </td>
 
@@ -264,12 +249,12 @@ Mon objectif est de transformer des problèmes métiers complexes en solutions l
 
 ### Applications Web
 
-- Plateformes web modernes
-- Applications métiers
-- ERP
-- CRM
-- Landing pages & Site Web
-- Dashboards administratifs
+* Plateformes web modernes
+* Applications métiers
+* ERP
+* CRM
+* Landing pages & Site Web
+* Dashboards administratifs
 
 </td>
 
@@ -277,10 +262,10 @@ Mon objectif est de transformer des problèmes métiers complexes en solutions l
 
 ### Applications Mobiles
 
-- Applications Flutter
-- Solutions multiplateformes
-- Interfaces mobile-first
-- Applications connectées
+* Applications Flutter
+* Solutions multiplateformes
+* Interfaces mobile-first
+* Applications connectées
 
 </td>
 
@@ -292,10 +277,10 @@ Mon objectif est de transformer des problèmes métiers complexes en solutions l
 
 ### Systèmes Back-End
 
-- API REST
-- Services sécurisés
-- Gestion des données
-- Architectures robustes
+* API REST
+* Services sécurisés
+* Gestion des données
+* Architectures robustes
 
 </td>
 
@@ -303,8 +288,8 @@ Mon objectif est de transformer des problèmes métiers complexes en solutions l
 
 ### IA
 
-- Applications intelligentes
-- Agents IA
+* Applications intelligentes
+* Agents IA
 
 </td>
 
@@ -319,13 +304,11 @@ Mon objectif est de transformer des problèmes métiers complexes en solutions l
 # Ma philosophie de développement
 
 ```text
-
 Architecture Logicielle
 
         |
 
         v
-
 
 Clean Code
 
@@ -333,13 +316,11 @@ Clean Code
 
         v
 
-
 Applications Scalables
 
         |
 
         v
-
 
 Sécurité & Performance
 
@@ -347,118 +328,14 @@ Sécurité & Performance
 
         v
 
-
 Expérience Utilisateur
 
         |
 
         v
 
-
 Impact Métier Réel
-````
-
----
-
-## Projets Mis en Avant
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="100%" valign="top">
-
-## AfricEduc
-
-### Plateforme SaaS de gestion scolaire
-
-AfricEduc est une plateforme SaaS moderne conçue pour accompagner les établissements scolaires dans la digitalisation complète de leur gestion administrative et pédagogique.
-
-### Fonctionnalités principales
-
-* Gestion des élèves
-* Gestion des enseignants
-* Gestion des classes
-* Gestion des années académiques
-* Génération automatique des bulletins
-* Calcul automatique des moyennes
-* Gestion des paiements
-* Tableau de bord analytique
-* Gestion des utilisateurs et permissions
-* Architecture multi-établissements
-
-### Technologies utilisées
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql&perline=6"/>
-
-</p>
-
-### Objectif
-
-Créer une solution fiable permettant aux établissements scolaires de simplifier leur gestion quotidienne grâce à une plateforme moderne, rapide et sécurisée.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="100%" valign="top">
-
-## ColisFlow
-
-### Plateforme de gestion logistique intelligente
-
-ColisFlow est une solution digitale dédiée au suivi des expéditions et à la gestion des opérations logistiques.
-
-### Fonctionnalités principales
-
-* Suivi des colis en temps réel
-* Gestion des expéditions
-* Gestion des statuts
-* Notifications utilisateurs
-* Tableau de bord opérationnel
-* Statistiques et analyses
-* Suivi des performances
-
-### Technologies utilisées
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,js,laravel,postgresql,tailwind&perline=5"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-</p>
-
-### Objectif
-
-Construire une infrastructure permettant aux entreprises de gérer efficacement leurs flux logistiques et d'améliorer l'expérience client.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
+```
 ---
 
 # GitHub Analytics
@@ -497,77 +374,11 @@ Construire une infrastructure permettant aux entreprises de gérer efficacement 
 
 ---
 
-# Ma manière de concevoir les logiciels
-
-Je considère le développement logiciel comme une combinaison entre ingénierie, créativité et compréhension des besoins utilisateurs.
-
-Chaque projet que je développe suit une approche basée sur :
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### Clean Code
-
-* Code lisible
-* Structure claire
-* Bonnes pratiques
-* Facilité de maintenance
-
-</td>
-
-<td width="50%">
-
-### Scalabilité
-
-* Architecture évolutive
-* Optimisation des performances
-* Préparation à la croissance
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### Sécurité
-
-* Protection des données
-* Gestion des accès
-* Bonnes pratiques de sécurité
-
-</td>
-
-<td width="50%">
-
-### Performance
-
-* Optimisation backend
-* Requêtes efficaces
-* Expérience utilisateur rapide
-
-</td>
-
-</tr>
-
-</table>
-
-Mon objectif n'est pas uniquement de créer une application qui fonctionne.
-
-Mon objectif est de construire des produits :
-
-> fiables, maintenables, évolutifs et capables d'apporter une vraie valeur.
-
 ---
 
 # ⚡ Mon Workflow de développement
 
 ```text
-
 01
 Analyse du besoin
 
@@ -615,15 +426,11 @@ Maintenance et évolution
 <p>
 
 <a href="mailto:hounmenouangelo@gmail.com">
-
 <img src="https://img.shields.io/badge/Me%20contacter-FE652D?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://hounmenou-ricardo.vercel.app/">
-
 <img src="https://img.shields.io/badge/Voir%20mon%20portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
-
 </a>
 
 </p>
@@ -633,6 +440,3 @@ Maintenance et évolution
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:431D0D,100:FE652D"/>
 
 </div>
-```
-
-**Petite précision importante :** j'ai volontairement utilisé les **tables HTML uniquement comme mécanisme fiable de mise en colonnes dans GitHub README**. Le rendu visuel correspond à ton idée de flex : **2 colonnes, 3 lignes, puis la troisième ligne fusionnée** pour les IA. Cela évite de dépendre de `display:flex`, que GitHub peut neutraliser dans le Markdown rendu.
